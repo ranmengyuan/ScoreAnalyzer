@@ -1,5 +1,4 @@
 # ScoreAnalyzer
-统计学生的成绩，以及学生的考试情况
 
 ScoreAnalyzer is an tool to calculate the grades of students. It is designed to calculate the number of people passing the examination at one time，at twice and the number of people failing the examination.
 
