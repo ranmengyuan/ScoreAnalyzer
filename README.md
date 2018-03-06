@@ -17,7 +17,7 @@ bin contains some profile and some package needed.
 src contains all source code.
 
 # Supported Platforms
-ScoreAnalyzer is based on JavaSE-1.8. If you want to operate score, you should download a Java interpreter and some package of java, such as poi,
+ScoreAnalyzer is based on JavaSE-1.8. If you want to operate ScoreAnalyzer, you should download a Java interpreter and some package of java, such as poi,
 mysql-connector etc..And you should also pay attention to the form of the file that you want to deal.
 
 # Problems
